@@ -1,0 +1,281 @@
+{"count": 1, "ids": [1, 237], "pos": "np", "rank": 0.04341055768943288, "text": "dna binds"}
+{"count": 1, "ids": [11, 12, 13], "pos": "np", "rank": 0.031923577565891516, "text": "flame retardant materials"}
+{"count": 1, "ids": [259, 17], "pos": "np", "rank": 0.02799376939771135, "text": "similar fire"}
+{"count": 1, "ids": [1, 247], "pos": "np", "rank": 0.02170527884471644, "text": "dna decomposition"}
+{"count": 1, "ids": [35, 13, 36], "pos": "np", "rank": 0.019665335774448532, "text": "genetic material forms"}
+{"count": 1, "ids": [29, 30], "pos": "np", "rank": 0.018957760467647466, "text": "extreme heat"}
+{"count": 1, "ids": [31, 38], "pos": "np", "rank": 0.016401242109185855, "text": "cotton fabrics"}
+{"count": 1, "ids": [1, 241, 17, 12, 242], "pos": "np", "rank": 0.015961788782945758, "text": "dna high fire retardant effectiveness"}
+{"count": 11, "ids": [12], "pos": "nns", "rank": 0.015961788782945758, "text": "retardants"}
+{"count": 3, "ids": [1, 2], "pos": "np", "rank": 0.014470185896477626, "text": "dna molecule"}
+{"count": 1, "ids": [17, 243], "pos": "np", "rank": 0.013996884698855676, "text": "fire protection"}
+{"count": 1, "ids": [30, 165], "pos": "np", "rank": 0.012290413398539765, "text": "heat exposure"}
+{"count": 12, "ids": [11], "pos": "nn", "rank": 0.01203022969507104, "text": "flame"}
+{"count": 1, "ids": [53, 11, 172], "pos": "np", "rank": 0.01203022969507104, "text": "natural flame suppressant"}
+{"count": 1, "ids": [27, 37], "pos": "np", "rank": 0.010822674012461874, "text": "ceramic-like coating"}
+{"count": 1, "ids": [112, 65, 113], "pos": "np", "rank": 0.010785446520965785, "text": "effects space travel"}
+{"count": 2, "ids": [11, 12], "pos": "np", "rank": 0.01064119252196384, "text": "flame retardant"}
+{"count": 1, "ids": [256, 174], "pos": "np", "rank": 0.010346046968372638, "text": "traditional intumescent"}
+{"count": 9, "ids": [36], "pos": "vbn", "rank": 0.009832667887224266, "text": "formed"}
+{"count": 1, "ids": [158, 163], "pos": "np", "rank": 0.009455495070494258, "text": "polymer surface"}
+{"count": 1, "ids": [17], "pos": "np", "rank": 0.009331256465903786, "text": "fire"}
+{"count": 1, "ids": [13], "pos": "np", "rank": 0.009102404637274294, "text": "material"}
+{"count": 1, "ids": [107, 24], "pos": "np", "rank": 0.009020240986483963, "text": "human cells"}
+{"count": 1, "ids": [255, 177], "pos": "np", "rank": 0.008810440975863415, "text": "longer time"}
+{"count": 13, "ids": [1], "pos": "np", "rank": 0.008682111537886577, "text": "dna"}
+{"count": 1, "ids": [168], "pos": "np", "rank": 0.008486396176555035, "text": "char"}
+{"count": 2, "ids": [38], "pos": "np", "rank": 0.008200621054592927, "text": "fabrics"}
+{"count": 1, "ids": [258, 11], "pos": "np", "rank": 0.00802015313004736, "text": "biological flame"}
+{"count": 1, "ids": [155, 11, 12], "pos": "np", "rank": 0.007980894391472879, "text": "textiles flame retardant"}
+{"count": 1, "ids": [43, 31], "pos": "np", "rank": 0.007570135635843736, "text": "untreated cotton"}
+{"count": 1, "ids": [1, 183], "pos": "np", "rank": 0.007235092948238813, "text": "dna changes"}
+{"count": 1, "ids": [149, 80], "pos": "np", "rank": 0.0072081239603796095, "text": "low temperatures"}
+{"count": 1, "ids": [174, 17, 243, 244], "pos": "np", "rank": 0.006998442349427838, "text": "intumescent fire protection screen"}
+{"count": 1, "ids": [251, 27, 13], "pos": "np", "rank": 0.00682680347795572, "text": "stable ceramic-like material"}
+{"count": 1, "ids": [248, 158], "pos": "np", "rank": 0.006765721926659831, "text": "organic polymers"}
+{"count": 1, "ids": [11, 12, 224], "pos": "np", "rank": 0.006384715513178303, "text": "flame retardant residue"}
+{"count": 1, "ids": [30], "pos": "np", "rank": 0.006319253489215822, "text": "heat"}
+{"count": 2, "ids": [1, 189, 208], "pos": "np", "rank": 0.0062015082413475545, "text": "dna release water"}
+{"count": 1, "ids": [17, 165], "pos": "np", "rank": 0.006145206699269883, "text": "fire exposure"}
+{"count": 3, "ids": [165], "pos": "nn", "rank": 0.006145206699269883, "text": "exposure"}
+{"count": 1, "ids": [73], "pos": "np", "rank": 0.0059359600908925675, "text": "rocket"}
+{"count": 4, "ids": [21], "pos": "vbn", "rank": 0.00583887352460543, "text": "coated"}
+{"count": 1, "ids": [9, 10], "pos": "np", "rank": 0.005736836856907651, "text": "new types"}
+{"count": 2, "ids": [212, 213], "pos": "np", "rank": 0.005716373127390439, "text": "protective shield"}
+{"count": 1, "ids": [174, 224], "pos": "np", "rank": 0.005696210215360423, "text": "intumescent residue"}
+{"count": 1, "ids": [115, 13], "pos": "np", "rank": 0.005461442782364576, "text": "many materials"}
+{"count": 1, "ids": [140, 120, 141], "pos": "np", "rank": 0.005456550446472399, "text": "peculiar chemical structure"}
+{"count": 1, "ids": [1, 97], "pos": "np", "rank": 0.00542631971117911, "text": "dna bases"}
+{"count": 1, "ids": [85, 65], "pos": "np", "rank": 0.0053927232604828925, "text": "sub-orbital space"}
+{"count": 4, "ids": [65], "pos": "nn", "rank": 0.0053927232604828925, "text": "space"}
+{"count": 1, "ids": [233, 17, 12, 13], "pos": "np", "rank": 0.00532059626098192, "text": "other fire retardant materials"}
+{"count": 1, "ids": [117], "pos": "np", "rank": 0.00526428878568619, "text": "furniture"}
+{"count": 1, "ids": [126, 127], "pos": "np", "rank": 0.005245644773927162, "text": "birth defects"}
+{"count": 5, "ids": [174], "pos": "nn", "rank": 0.005173023484186319, "text": "intumescent"}
+{"count": 4, "ids": [39], "pos": "vbn", "rank": 0.005064823087771084, "text": "shown"}
+{"count": 1, "ids": [31], "pos": "np", "rank": 0.0050467570905624905, "text": "cotton"}
+{"count": 1, "ids": [40, 41], "pos": "np", "rank": 0.004867660437899668, "text": "bottom image"}
+{"count": 3, "ids": [163], "pos": "nn", "rank": 0.004727747535247129, "text": "surface"}
+{"count": 1, "ids": [11, 12, 161], "pos": "np", "rank": 0.004718951427517747, "text": "flame retardant activity"}
+{"count": 2, "ids": [5, 24], "pos": "np", "rank": 0.00461491464683198, "text": "sperm cells"}
+{"count": 2, "ids": [162], "pos": "vbn", "rank": 0.004604709329036362, "text": "applied"}
+{"count": 1, "ids": [27, 13], "pos": "np", "rank": 0.004551202318637147, "text": "ceramic-like material"}
+{"count": 2, "ids": [177], "pos": "nn", "rank": 0.004405220487931708, "text": "time"}
+{"count": 1, "ids": [100, 101], "pos": "np", "rank": 0.004387480373733274, "text": "northern sweden"}
+{"count": 2, "ids": [20], "pos": "np", "rank": 0.004183856494857623, "text": "researchers"}
+{"count": 2, "ids": [182], "pos": "np", "rank": 0.003998505245870059, "text": "properties"}
+{"count": 1, "ids": [236, 11, 12, 13], "pos": "np", "rank": 0.0039904471957364395, "text": "future flame retardant materials"}
+{"count": 2, "ids": [14], "pos": "np", "rank": 0.003883870750922603, "text": "scientists"}
+{"count": 4, "ids": [34], "pos": "vbn", "rank": 0.0038197543872055136, "text": "burned"}
+{"count": 2, "ids": [50], "pos": "np", "rank": 0.003802770661949719, "text": "work"}
+{"count": 2, "ids": [71, 72], "pos": "np", "rank": 0.0037834351631299643, "text": "outer casing"}
+{"count": 1, "ids": [246, 247], "pos": "np", "rank": 0.0037790955973659637, "text": "thermal decomposition"}
+{"count": 1, "ids": [246, 252], "pos": "np", "rank": 0.0036694855652707895, "text": "thermal oxidation"}
+{"count": 1, "ids": [46], "pos": "np", "rank": 0.0036264630110578715, "text": "foam"}
+{"count": 1, "ids": [245, 80], "pos": "np", "rank": 0.0036040619801898047, "text": "lower temperature"}
+{"count": 1, "ids": [17, 148], "pos": "np", "rank": 0.00350986471975735, "text": "fire resistance"}
+{"count": 2, "ids": [26], "pos": "vbn", "rank": 0.0034192176213467275, "text": "converted"}
+{"count": 1, "ids": [13, 14], "pos": "np", "rank": 0.00341340173897786, "text": "materials scientist"}
+{"count": 4, "ids": [158], "pos": "nns", "rank": 0.0033828609633299155, "text": "polymers"}
+{"count": 1, "ids": [119], "pos": "nn", "rank": 0.0033703525379835306, "text": "sofas"}
+{"count": 1, "ids": [96, 97], "pos": "np", "rank": 0.003295644882239867, "text": "european base"}
+{"count": 2, "ids": [28], "pos": "vbn", "rank": 0.003234072165273109, "text": "exposed"}
+{"count": 1, "ids": [157, 158, 197], "pos": "np", "rank": 0.0032157023842022277, "text": "journal polymer degradation"}
+{"count": 1, "ids": [157, 158], "pos": "np", "rank": 0.0032072102201582786, "text": "journal polymer"}
+{"count": 3, "ids": [52], "pos": "vb", "rank": 0.0031396978172267016, "text": "provide"}
+{"count": 5, "ids": [74], "pos": "vbd", "rank": 0.0031379973662075283, "text": "said"}
+{"count": 2, "ids": [128, 130], "pos": "np", "rank": 0.0030932925494092252, "text": "professor malucelli"}
+{"count": 2, "ids": [145], "pos": "vbz", "rank": 0.003032808418226896, "text": "features"}
+{"count": 1, "ids": [22], "pos": "np", "rank": 0.003030773250428371, "text": "cloth"}
+{"count": 1, "ids": [24], "pos": "np", "rank": 0.003006746995494654, "text": "cells"}
+{"count": 3, "ids": [32], "pos": "vbn", "rank": 0.002930573454157472, "text": "layered"}
+{"count": 1, "ids": [170, 171], "pos": "np", "rank": 0.002920321220023472, "text": "efficient renewable"}
+{"count": 1, "ids": [63, 64], "pos": "np", "rank": 0.0029109979682829116, "text": "harsh conditions"}
+{"count": 1, "ids": [164], "pos": "vbd", "rank": 0.002892144320393002, "text": "observed"}
+{"count": 1, "ids": [9, 261], "pos": "np", "rank": 0.0028684184284538256, "text": "new generation"}
+{"count": 2, "ids": [214], "pos": "nn", "rank": 0.0028651593139980363, "text": "rest"}
+{"count": 2, "ids": [213], "pos": "nn", "rank": 0.0028581865636952194, "text": "shield"}
+{"count": 2, "ids": [224], "pos": "nn", "rank": 0.0028481051076802116, "text": "residue"}
+{"count": 2, "ids": [211], "pos": "nns", "rank": 0.0028390104577746865, "text": "acts"}
+{"count": 3, "ids": [189], "pos": "nn", "rank": 0.002828041528663217, "text": "release"}
+{"count": 3, "ids": [208], "pos": "nn", "rank": 0.0028218631921476164, "text": "water"}
+{"count": 1, "ids": [68, 69, 70], "pos": "np", "rank": 0.0028211883562302255, "text": "small double strands"}
+{"count": 4, "ids": [2], "pos": "nn", "rank": 0.0027984719155263694, "text": "molecule"}
+{"count": 1, "ids": [89, 90, 2], "pos": "np", "rank": 0.0027984719155263694, "text": "extraterrestrial life molecules"}
+{"count": 2, "ids": [220], "pos": "vb", "rank": 0.0027361595647428477, "text": "create"}
+{"count": 1, "ids": [218, 219], "pos": "np", "rank": 0.0027332397537397795, "text": "phosphoric acid"}
+{"count": 1, "ids": [120, 250], "pos": "np", "rank": 0.0027282752232361995, "text": "chemical composition"}
+{"count": 1, "ids": [120], "pos": "nn", "rank": 0.0027282752232361995, "text": "chemical"}
+{"count": 1, "ids": [242], "pos": "nn", "rank": 0.002725542223227235, "text": "effectiveness"}
+{"count": 1, "ids": [4, 5], "pos": "np", "rank": 0.0026892469732931455, "text": "fish sperm"}
+{"count": 1, "ids": [120, 11], "pos": "np", "rank": 0.0026733843766824535, "text": "chemical flame"}
+{"count": 1, "ids": [127], "pos": "nns", "rank": 0.002622822386963581, "text": "defects"}
+{"count": 1, "ids": [198], "pos": "nnp", "rank": 0.002520338313842805, "text": "stability"}
+{"count": 3, "ids": [54], "pos": "nn", "rank": 0.002506258535715881, "text": "way"}
+{"count": 1, "ids": [113], "pos": "nn", "rank": 0.0024503901622343694, "text": "travel"}
+{"count": 1, "ids": [258, 24], "pos": "np", "rank": 0.0024483042089831672, "text": "biological cells"}
+{"count": 2, "ids": [41], "pos": "nns", "rank": 0.002433830218949834, "text": "images"}
+{"count": 1, "ids": [221, 207], "pos": "np", "rank": 0.0024195751774986796, "text": "phosphate groups"}
+{"count": 1, "ids": [80], "pos": "np", "rank": 0.0024027079867932027, "text": "temperatures"}
+{"count": 1, "ids": [161], "pos": "nn", "rank": 0.0023594757137588734, "text": "activity"}
+{"count": 3, "ids": [176], "pos": "vbn", "rank": 0.0023527780624842173, "text": "known"}
+{"count": 1, "ids": [149, 150, 151], "pos": "np", "rank": 0.0023338216523838013, "text": "low melting plastics"}
+{"count": 2, "ids": [243], "pos": "nn", "rank": 0.002322807700579345, "text": "protection"}
+{"count": 1, "ids": [125], "pos": "nns", "rank": 0.0023121952019287007, "text": "cancers"}
+{"count": 4, "ids": [5], "pos": "nnp", "rank": 0.00230745732341599, "text": "sperm"}
+{"count": 1, "ids": [227, 228, 229], "pos": "np", "rank": 0.002291380127049363, "text": "dr jenny alongi"}
+{"count": 1, "ids": [124], "pos": "nn", "rank": 0.0022090416799877013, "text": "infertility"}
+{"count": 1, "ids": [136], "pos": "nn", "rank": 0.0022090416799877013, "text": "research"}
+{"count": 1, "ids": [101], "pos": "nnp", "rank": 0.002193740186866637, "text": "sweden"}
+{"count": 1, "ids": [86], "pos": "nn", "rank": 0.0021767010492018506, "text": "back"}
+{"count": 2, "ids": [210], "pos": "nn", "rank": 0.002142303583646425, "text": "gel"}
+{"count": 1, "ids": [244], "pos": "nn", "rank": 0.0021166365777042, "text": "screen"}
+{"count": 1, "ids": [92], "pos": "nnp", "rank": 0.002088470034592029, "text": "earth"}
+{"count": 2, "ids": [247], "pos": "nn", "rank": 0.0020543003085679167, "text": "decomposition"}
+{"count": 1, "ids": [194], "pos": "nn", "rank": 0.0020294000696423273, "text": "oxygen"}
+{"count": 2, "ids": [3], "pos": "vbn", "rank": 0.0020123743364327176, "text": "extracted"}
+{"count": 1, "ids": [93, 85, 94], "pos": "np", "rank": 0.0020112335200088835, "text": "texus-49 sub-orbital mission"}
+{"count": 1, "ids": [257], "pos": "np", "rank": 0.0019578042761808604, "text": "proteins"}
+{"count": 1, "ids": [37], "pos": "nn", "rank": 0.0019515372969078498, "text": "coating"}
+{"count": 2, "ids": [72], "pos": "nn", "rank": 0.0018917175815649822, "text": "casing"}
+{"count": 1, "ids": [193], "pos": "nn", "rank": 0.001876219968632551, "text": "availability"}
+{"count": 1, "ids": [116], "pos": "vbg", "rank": 0.0018471192423524915, "text": "including"}
+{"count": 1, "ids": [252], "pos": "nn", "rank": 0.0018347427826353947, "text": "oxidation"}
+{"count": 1, "ids": [191], "pos": "np", "rank": 0.0018334692937945231, "text": "cent"}
+{"count": 1, "ids": [205], "pos": "nn", "rank": 0.0018072686969480983, "text": "e"}
+{"count": 2, "ids": [183], "pos": "nns", "rank": 0.0017962345764888613, "text": "changes"}
+{"count": 1, "ids": [81], "pos": "vbg", "rank": 0.0017904112954287242, "text": "soaring"}
+{"count": 1, "ids": [122], "pos": "nn", "rank": 0.0017683814426521062, "text": "environment"}
+{"count": 1, "ids": [99], "pos": "nnp", "rank": 0.0017674112680731117, "text": "kiruna"}
+{"count": 1, "ids": [148], "pos": "nn", "rank": 0.001754932359878675, "text": "resistance"}
+{"count": 1, "ids": [249], "pos": "vbz", "rank": 0.0017511100318876693, "text": "occurs"}
+{"count": 2, "ids": [108], "pos": "vbn", "rank": 0.0017294532940548696, "text": "carried"}
+{"count": 2, "ids": [87], "pos": "vbg", "rank": 0.0017242560042082173, "text": "raising"}
+{"count": 2, "ids": [216, 112], "pos": "np", "rank": 0.0017196470458413723, "text": "itnumescent effect"}
+{"count": 4, "ids": [112], "pos": "nn", "rank": 0.0017196470458413723, "text": "effect"}
+{"count": 1, "ids": [235], "pos": "nn", "rank": 0.0017188399787843188, "text": "egg"}
+{"count": 1, "ids": [192], "pos": "vbz", "rank": 0.0016958813111744029, "text": "limits"}
+{"count": 1, "ids": [10], "pos": "nns", "rank": 0.0016719190403750807, "text": "types"}
+{"count": 3, "ids": [103], "pos": "nn", "rank": 0.0016288246896235304, "text": "study"}
+{"count": 1, "ids": [253], "pos": "vbn", "rank": 0.0016280071837828612, "text": "built"}
+{"count": 1, "ids": [184], "pos": "vbg", "rank": 0.0016228406427987894, "text": "causing"}
+{"count": 1, "ids": [204], "pos": "nn", "rank": 0.0016148694704166014, "text": "d"}
+{"count": 2, "ids": [209], "pos": "vbn", "rank": 0.001614768658153911, "text": "set"}
+{"count": 1, "ids": [197], "pos": "nnp", "rank": 0.0016078511921011139, "text": "degradation"}
+{"count": 2, "ids": [157], "pos": "nn", "rank": 0.0016036051100791393, "text": "journal"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.0016030256304001116, "text": "suppressant"}
+{"count": 1, "ids": [260], "pos": "nn", "rank": 0.0015920317347433103, "text": "prospect"}
+{"count": 2, "ids": [141], "pos": "nn", "rank": 0.0015913192179293602, "text": "structure"}
+{"count": 1, "ids": [179, 141], "pos": "np", "rank": 0.0015913192179293602, "text": "helical structure"}
+{"count": 1, "ids": [121], "pos": "vbg", "rank": 0.0015690019345630827, "text": "accumulating"}
+{"count": 1, "ids": [98], "pos": "nnp", "rank": 0.0015678660119686997, "text": "esrange"}
+{"count": 3, "ids": [130], "pos": "nnp", "rank": 0.0015466462747046126, "text": "malucelli"}
+{"count": 1, "ids": [128, 129, 130], "pos": "np", "rank": 0.0015466462747046126, "text": "professor giulio malucelli"}
+{"count": 1, "ids": [91], "pos": "vbg", "rank": 0.0015456066382074157, "text": "arriving"}
+{"count": 2, "ids": [97], "pos": "nns", "rank": 0.0015275297459460412, "text": "bases"}
+{"count": 1, "ids": [159], "pos": "np", "rank": 0.0015266297717780027, "text": "colleagues"}
+{"count": 1, "ids": [234], "pos": "vbg", "rank": 0.001510842877360396, "text": "approaching"}
+{"count": 1, "ids": [230], "pos": "vbd", "rank": 0.0014941304394084376, "text": "appeared"}
+{"count": 1, "ids": [203], "pos": "nn", "rank": 0.0014938793753026113, "text": "c"}
+{"count": 1, "ids": [223], "pos": "nn", "rank": 0.0014841015293993118, "text": "backbone"}
+{"count": 1, "ids": [8], "pos": "vb", "rank": 0.0014775501360481404, "text": "develop"}
+{"count": 1, "ids": [226], "pos": "nn", "rank": 0.00146440933251863, "text": "ammonia"}
+{"count": 1, "ids": [231], "pos": "vb", "rank": 0.0014622633237157357, "text": "become"}
+{"count": 1, "ids": [147], "pos": "vbg", "rank": 0.001460160610011736, "text": "conferring"}
+{"count": 1, "ids": [64], "pos": "nns", "rank": 0.0014554989841414558, "text": "conditions"}
+{"count": 2, "ids": [131, 132], "pos": "np", "rank": 0.001438878622828051, "text": "polytechnic university"}
+{"count": 1, "ids": [95], "pos": "vbn", "rank": 0.0014271833152964813, "text": "launched"}
+{"count": 2, "ids": [15], "pos": "vbn", "rank": 0.00141885747633025, "text": "discovered"}
+{"count": 1, "ids": [126], "pos": "nn", "rank": 0.0014175008907760247, "text": "birth"}
+{"count": 1, "ids": [56], "pos": "vbn", "rank": 0.0014171932980818016, "text": "thought"}
+{"count": 1, "ids": [188], "pos": "nn", "rank": 0.00141148217172493, "text": "amount"}
+{"count": 1, "ids": [70], "pos": "nns", "rank": 0.0014105941781151128, "text": "strands"}
+{"count": 1, "ids": [48], "pos": "vb", "rank": 0.0013976848629744857, "text": "prevent"}
+{"count": 1, "ids": [232], "pos": "vbn", "rank": 0.0013964827256636554, "text": "compared"}
+{"count": 1, "ids": [123], "pos": "vbn", "rank": 0.0013932716449181965, "text": "linked"}
+{"count": 1, "ids": [135], "pos": "vbg", "rank": 0.0013932716449181965, "text": "leading"}
+{"count": 2, "ids": [62], "pos": "vbd", "rank": 0.0013808809638831837, "text": "survived"}
+{"count": 1, "ids": [219], "pos": "nn", "rank": 0.0013666198768698898, "text": "acid"}
+{"count": 1, "ids": [4], "pos": "nn", "rank": 0.0013446234866465727, "text": "fish"}
+{"count": 1, "ids": [181], "pos": "nn", "rank": 0.0013443288972852388, "text": "shape"}
+{"count": 2, "ids": [133], "pos": "nnp", "rank": 0.0013308279543681064, "text": "turin"}
+{"count": 1, "ids": [106], "pos": "nns", "rank": 0.001318281085813995, "text": "genes"}
+{"count": 1, "ids": [237], "pos": "vbz", "rank": 0.0013063779189440635, "text": "binds"}
+{"count": 1, "ids": [58], "pos": "vbn", "rank": 0.0013055525618695615, "text": "damaged"}
+{"count": 1, "ids": [111], "pos": "vb", "rank": 0.0012879397300233995, "text": "test"}
+{"count": 1, "ids": [254], "pos": "vb", "rank": 0.0012636337354786358, "text": "withstand"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.0012462666871796632, "text": "top"}
+{"count": 1, "ids": [202], "pos": "nn", "rank": 0.0012462666871796632, "text": "b"}
+{"count": 1, "ids": [66], "pos": "nn", "rank": 0.0012399923637465234, "text": "reentry"}
+{"count": 1, "ids": [239], "pos": "vbz", "rank": 0.0012399923637465234, "text": "denatures"}
+{"count": 1, "ids": [138], "pos": "np", "rank": 0.0012385447515105797, "text": "mail"}
+{"count": 1, "ids": [83, 84], "pos": "np", "rank": 0.0012385447515105797, "text": "short flight"}
+{"count": 1, "ids": [222], "pos": "nn", "rank": 0.0012346852622745856, "text": "part"}
+{"count": 1, "ids": [217], "pos": "vbz", "rank": 0.001234094044430846, "text": "combines"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.0012097875887493398, "text": "phosphate"}
+{"count": 1, "ids": [186], "pos": "vbn", "rank": 0.0012093721722279424, "text": "highlighted"}
+{"count": 1, "ids": [169], "pos": "vbn", "rank": 0.001195696284846087, "text": "proven"}
+{"count": 2, "ids": [206, 207], "pos": "np", "rank": 0.0011949983695867493, "text": "deoxyribose groups"}
+{"count": 3, "ids": [207], "pos": "nns", "rank": 0.0011949983695867493, "text": "groups"}
+{"count": 1, "ids": [90], "pos": "nn", "rank": 0.0011942105445851797, "text": "life"}
+{"count": 1, "ids": [201], "pos": "np", "rank": 0.0011934774844869734, "text": "pieces"}
+{"count": 1, "ids": [114], "pos": "nns", "rank": 0.001169639778350679, "text": "positions"}
+{"count": 1, "ids": [88], "pos": "nn", "rank": 0.0011672237327454218, "text": "possibility"}
+{"count": 1, "ids": [33], "pos": "vbz", "rank": 0.0011669686256652926, "text": "resists"}
+{"count": 1, "ids": [151], "pos": "nns", "rank": 0.0011669108261919007, "text": "plastics"}
+{"count": 1, "ids": [187], "pos": "vb", "rank": 0.0011495593053741213, "text": "reduce"}
+{"count": 1, "ids": [139], "pos": "nnp", "rank": 0.0011456900635246816, "text": "online"}
+{"count": 1, "ids": [229], "pos": "nnp", "rank": 0.0011456900635246816, "text": "alongi"}
+{"count": 3, "ids": [55], "pos": "vb", "rank": 0.0011446417376748523, "text": "protect"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.001134373685933306, "text": "per"}
+{"count": 1, "ids": [47], "pos": "vbz", "rank": 0.0011330477644194631, "text": "helps"}
+{"count": 1, "ids": [42], "pos": "nn", "rank": 0.0011239349348706063, "text": "photograph"}
+{"count": 2, "ids": [51], "pos": "vbp", "rank": 0.001081113320716544, "text": "believe"}
+{"count": 1, "ids": [180], "pos": "vb", "rank": 0.0010700917796781023, "text": "deform"}
+{"count": 1, "ids": [261], "pos": "nn", "rank": 0.0010439857315384657, "text": "generation"}
+{"count": 1, "ids": [105], "pos": "nn", "rank": 0.0010394316564889259, "text": "gravity"}
+{"count": 1, "ids": [238], "pos": "nns", "rank": 0.0010315486300954287, "text": "chromosomes"}
+{"count": 1, "ids": [102], "pos": "vbn", "rank": 0.0010246688616812585, "text": "intended"}
+{"count": 1, "ids": [240], "pos": "nn", "rank": 0.0010246688616812585, "text": "reason"}
+{"count": 1, "ids": [146], "pos": "vbn", "rank": 0.0010246688616812585, "text": "exploited"}
+{"count": 1, "ids": [59, 195], "pos": "np", "rank": 0.001016900778854559, "text": "recent paper"}
+{"count": 1, "ids": [155], "pos": "nns", "rank": 0.001013342848658838, "text": "textiles"}
+{"count": 1, "ids": [200], "pos": "vbn", "rank": 0.0010123850120195665, "text": "pictured"}
+{"count": 2, "ids": [85], "pos": "nn", "rank": 0.0010056167600044417, "text": "sub-orbital"}
+{"count": 1, "ids": [110], "pos": "nn", "rank": 0.0010043095576194453, "text": "addition"}
+{"count": 1, "ids": [49], "pos": "vbg", "rank": 0.001002672643476952, "text": "catching"}
+{"count": 1, "ids": [196], "pos": "vbn", "rank": 0.0009406614371910571, "text": "published"}
+{"count": 1, "ids": [250], "pos": "nn", "rank": 0.0008983730460419212, "text": "composition"}
+{"count": 2, "ids": [215], "pos": "np", "rank": 0.0008691381304172117, "text": "process"}
+{"count": 1, "ids": [175], "pos": "np", "rank": 0.0008691381304172117, "text": "biologists"}
+{"count": 1, "ids": [77], "pos": "np", "rank": 0.0008691381304172117, "text": "samples"}
+{"count": 1, "ids": [185], "pos": "np", "rank": 0.0008691381304172117, "text": "findings"}
+{"count": 1, "ids": [23], "pos": "vbg", "rank": 0.000827093501609149, "text": "herring"}
+{"count": 1, "ids": [134], "pos": "nnp", "rank": 0.0008114907236705661, "text": "italy"}
+{"count": 1, "ids": [19], "pos": "nns", "rank": 0.0008039756863019739, "text": "experiments"}
+{"count": 1, "ids": [144], "pos": "vbz", "rank": 0.0008039756863019739, "text": "possesses"}
+{"count": 1, "ids": [160], "pos": "vbn", "rank": 0.0008031718484455441, "text": "explored"}
+{"count": 1, "ids": [154], "pos": "vbg", "rank": 0.0007896054014417291, "text": "making"}
+{"count": 1, "ids": [94], "pos": "nn", "rank": 0.0007714166311287552, "text": "mission"}
+{"count": 2, "ids": [132], "pos": "nnp", "rank": 0.0007194393114140255, "text": "university"}
+{"count": 3, "ids": [128], "pos": "nnp", "rank": 0.0007114610189406485, "text": "professor"}
+{"count": 1, "ids": [104], "pos": "nn", "rank": 0.0007114610189406485, "text": "influence"}
+{"count": 1, "ids": [199], "pos": "nn", "rank": 0.0006797473606635334, "text": "herring"}
+{"count": 2, "ids": [131], "pos": "nnp", "rank": 0.0006703767045236625, "text": "polytechnic"}
+{"count": 1, "ids": [109], "pos": "vbd", "rank": 0.0006703767045236625, "text": "decided"}
+{"count": 1, "ids": [67], "pos": "vbd", "rank": 0.0006703767045236625, "text": "attached"}
+{"count": 1, "ids": [150], "pos": "nn", "rank": 0.0006307402919161895, "text": "melting"}
+{"count": 1, "ids": [228], "pos": "nnp", "rank": 0.0006192723757552899, "text": "jenny"}
+{"count": 1, "ids": [84], "pos": "nn", "rank": 0.0006192723757552899, "text": "flight"}
+{"count": 1, "ids": [78], "pos": "vbd", "rank": 0.0006192723757552899, "text": "remained"}
+{"count": 1, "ids": [129], "pos": "nnp", "rank": 0.0005555415834646699, "text": "giulio"}
+{"count": 1, "ids": [60], "pos": "nns", "rank": 0.0005084503894272795, "text": "years"}
+{"count": 1, "ids": [195], "pos": "nn", "rank": 0.0005084503894272795, "text": "paper"}
+{"count": 1, "ids": [18], "pos": "nn", "rank": 0.00043456906520860587, "text": "series"}
+{"count": 1, "ids": [206], "pos": "nn", "rank": 0.00043456906520860587, "text": "deoxyribose"}
+{"count": 1, "ids": [143], "pos": "vbz", "rank": 0.00043456906520860587, "text": "means"}
+{"count": 1, "ids": [93], "pos": "nnp", "rank": 0.00043456906520860587, "text": "texus-49"}
+{"count": 1, "ids": [45], "pos": "nn", "rank": 0.00043456906520860587, "text": "char-like"}
+{"count": 1, "ids": [152], "pos": "vbd", "rank": 0.00043456906520860587, "text": "added"}
+{"count": 1, "ids": [137], "pos": "vbg", "rank": 0.00043456906520860587, "text": "speaking"}
+{"count": 1, "ids": [227], "pos": "nnp", "rank": 0.00043456906520860587, "text": "dr"}
